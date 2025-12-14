@@ -1,0 +1,93 @@
+site_name: 真诚连接
+site_url: https://authentic-connections.github.io
+site_description: 用理工男能理解的方式，讲清楚人际关系这件事
+site_author: Authentic Connections
+
+repo_name: authentic-connections
+repo_url: https://github.com/authentic-connections/authentic-connections
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: 切换到浅色模式
+  font:
+    text: Noto Sans SC
+    code: Fira Code
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - announce.dismiss
+
+plugins:
+  - search:
+      lang: zh
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.mark
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - def_list
+  - tables
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/authentic-connections
+
+copyright: Copyright &copy; 2024 真诚连接 - 开源项目
+
+nav:
+  - 首页: index.md
+  - 文章:
+    - articles/index.md
+    - 概览:
+      - 理工男脱单工程学: articles/overview/engineering-approach.md
+    - 自我认知:
+      - 了解自己: articles/self-awareness/understanding-yourself.md
+    - 沟通技巧:
+      - 沟通的正确姿势: articles/communication/effective-communication.md
+      - 主动倾听: articles/communication/active-listening.md
+  - 指南:
+    - guides/index.md
+    - 开始指南: guides/getting-started.md
+  - 资源:
+    - resources/index.md
+    - 推荐书籍: resources/books.md
