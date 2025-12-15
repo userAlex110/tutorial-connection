@@ -11,7 +11,6 @@ pip install mkdocs-material
 # 本地预览
 mkdocs serve
 
-# 构建静态站点
 mkdocs build
 ```
 
