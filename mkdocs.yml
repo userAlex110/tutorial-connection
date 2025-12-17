@@ -76,18 +76,14 @@ copyright: Copyright &copy; 2024 真诚连接 - 开源项目
 
 nav:
   - 首页: index.md
-  - 文章:
-    - articles/index.md
-    - 概览:
-      - 理工男脱单工程学: articles/overview/engineering-approach.md
-    - 自我认知:
-      - 了解自己: articles/self-awareness/understanding-yourself.md
-    - 沟通技巧:
-      - 沟通的正确姿势: articles/communication/effective-communication.md
-      - 主动倾听: articles/communication/active-listening.md
-  - 指南:
-    - guides/index.md
-    - 开始指南: guides/getting-started.md
+  - 基础理念:
+    - 开始指南: basics/getting-started.md
+    - 理工男脱单工程学: basics/engineering-approach.md
+  - 自我认知:
+    - 了解自己: self/understanding-yourself.md
+  - 沟通技巧:
+    - 沟通的正确姿势: communication/effective-communication.md
+    - 主动倾听: communication/active-listening.md
   - 资源:
     - resources/index.md
     - 推荐书籍: resources/books.md

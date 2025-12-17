@@ -46,16 +46,17 @@
 
     建议按以下顺序阅读：
 
-    1. [理工男脱单工程学](articles/overview/engineering-approach.md) - 了解整体框架
-    2. [了解自己](articles/self-awareness/understanding-yourself.md) - 从自我认知开始
-    3. [沟通的正确姿势](articles/communication/effective-communication.md) - 学习基本的沟通技巧
+    1. [理工男脱单工程学](basics/engineering-approach.md) - 了解整体框架
+    2. [了解自己](self/understanding-yourself.md) - 从自我认知开始
+    3. [沟通的正确姿势](communication/effective-communication.md) - 学习基本的沟通技巧
 
 ## 内容结构
 
 | 分类 | 内容 |
 |------|------|
-| [📚 文章](articles/index.md) | 自我认知、沟通技巧、关系建立的深度内容 |
-| [📖 指南](guides/index.md) | 实用的入门指南和操作手册 |
+| [📚 基础理念](basics/getting-started.md) | 项目初衷与核心方法论 |
+| [🧘 自我认知](self/understanding-yourself.md) | 了解自己，建立自信 |
+| [💬 沟通技巧](communication/effective-communication.md) | 掌握有效的沟通协议 |
 | [🔗 资源](resources/index.md) | 推荐的书籍、课程和工具 |
 
 ---
