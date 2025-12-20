@@ -80,10 +80,12 @@ nav:
     - articles/index.md
     - 概览:
       - 理工男脱单工程学: articles/overview/engineering-approach.md
+    - 思维模式:
+      - 异性思维兼容性层: articles/mindset/understanding-women.md
     - 自我认知:
       - 了解自己: articles/self-awareness/understanding-yourself.md
     - 沟通技巧:
-      - 沟通的正确姿势: articles/communication/effective-communication.md
+      - 通信协议规范: articles/communication/effective-communication.md
       - 主动倾听: articles/communication/active-listening.md
   - 指南:
     - guides/index.md
