@@ -14,6 +14,8 @@
 
 我们不教"套路"和"话术"。那些东西就像是给代码加混淆——短期可能有效，但长期维护成本极高，而且容易崩溃。
 
+正如王小波在《爱你就像爱生命》中所展示的，开启一段关系最好的敲门砖不是展示你有多少钱或多完美，而是**"毫无保留的赤诚"**。这种坦荡的示弱和天真的热情，是建立信任最快的捷径。
+
 真诚的关系就像开源代码：透明、可维护、经得起 review。
 
 ### 2. 自我提升优先
@@ -52,9 +54,9 @@
 
 建议按以下顺序阅读：
 
-1. [理工男脱单工程学](../articles/overview/engineering-approach.md) - 了解整体框架
-2. [了解自己](../articles/self-awareness/understanding-yourself.md) - 从自我认知开始
-3. [沟通的正确姿势](../articles/communication/effective-communication.md) - 学习基本的沟通技巧
+1. [理工男脱单工程学](engineering-approach.md) - 了解整体框架
+2. [了解自己](../self/understanding-yourself.md) - 从自我认知开始
+3. [沟通的正确姿势](../communication/effective-communication.md) - 学习基本的沟通技巧
 
 ## 一个重要提醒
 
