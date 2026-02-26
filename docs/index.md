@@ -75,6 +75,7 @@ GitHub 上没有 <code>How-To-Get-A-Girlfriend</code> 的官方文档，但我�
 
     - [主动倾听](communication/active-listening.md) - 提升沟通质量
     - [推荐书籍](resources/books.md) - 系统深入学习
+    - [作者实践记录](practice/README.md) - 看我的实战复盘与踩坑记录
     - 开始实践，边做边学，遇到问题回来查
 
 ---
@@ -144,6 +145,10 @@ GitHub 上没有 <code>How-To-Get-A-Girlfriend</code> 的官方文档，但我�
 │
 ├── 🎯 实用指南
 │   └── [约会实战指南](guides/dating-guide.md)             ← 第4步
+│
+├── 📝 作者实践
+│   ├── [实践记录首页](practice/README.md)
+│   └── [日志模板](practice/template.md)
 │
 └── 🔗 资源
     ├── [推荐书籍](resources/books.md)

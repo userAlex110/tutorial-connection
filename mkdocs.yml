@@ -86,6 +86,9 @@ nav:
     - 主动倾听: communication/active-listening.md
   - 实用指南:
     - 约会实战指南: guides/dating-guide.md
+  - 作者实践:
+    - practice/README.md
+    - 实践日志模板: practice/template.md
   - 资源:
     - resources/index.md
     - 推荐书籍: resources/books.md
